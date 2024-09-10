@@ -5,6 +5,7 @@ Vue d'ensemble du projet:
 Dans ce projet, j'ai travaillé avec des données immobilières publiques (conformes au RGPD) fournies sous forme de fichier Excel. Le projet a impliqué plusieurs étapes clés pour transformer et interroger ces données :
 
 Composants clés
+
 Acquisition des Données :
 
 Source : Données immobilières publiques (data.gouv + insee).
